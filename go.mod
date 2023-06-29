@@ -1,4 +1,4 @@
-module github.com/mattn/go-sqlite3
+module github.com/hak5/go-sqlite3-hak5
 
 go 1.16
 
